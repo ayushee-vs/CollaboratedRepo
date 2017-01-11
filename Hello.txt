@@ -1,6 +1,3 @@
 hii we are here
-<<<<<<< HEAD
 hi merging
-=======
 hiiii
->>>>>>> 0c2f412afb4920a09cdd1ec5bd448e82e6a56c78
